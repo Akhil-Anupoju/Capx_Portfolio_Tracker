@@ -36,8 +36,7 @@ The database schema is designed to store essential stock details, including:
 - User and Portfolio relations (if applicable)
 
 ## Deployment
-- **Backend**: Deployed on platforms like Heroku, AWS, or Render.
-- **Frontend**: Deployed on platforms like Vercel or Netlify.
+- **Frontend** and **Backend**: Deployed on platforms like Netlify.
 
 ## Getting Started
 To run the application locally, follow these steps:
@@ -48,9 +47,6 @@ To run the application locally, follow these steps:
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Live Demo
 [Link to Deployed Application](https://lambent-haupia-0b550b.netlify.app/) 
